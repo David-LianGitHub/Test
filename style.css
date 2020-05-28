@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+.row{
+    width: 1140px;
+}
+
+#slider {
+    overflow: hidden;
+    
+    
+}
+#slider figure{
+    position: relative;
+    width: 200%;
+    margin: 0;
+    left: 0;
+    
+    animation: 5s  slider infinite;
+}
